@@ -1,0 +1,7 @@
+C:\Users\lesli\OneDrive\Desktop\azureLearning\learningApp\bin\Publish\learningApp.exe
+C:\Users\lesli\OneDrive\Desktop\azureLearning\learningApp\bin\Publish\appsettings.Development.json
+C:\Users\lesli\OneDrive\Desktop\azureLearning\learningApp\bin\Publish\appsettings.json
+C:\Users\lesli\OneDrive\Desktop\azureLearning\learningApp\bin\Publish\learningApp.dll
+C:\Users\lesli\OneDrive\Desktop\azureLearning\learningApp\bin\Publish\learningApp.deps.json
+C:\Users\lesli\OneDrive\Desktop\azureLearning\learningApp\bin\Publish\learningApp.runtimeconfig.json
+C:\Users\lesli\OneDrive\Desktop\azureLearning\learningApp\bin\Publish\learningApp.pdb
